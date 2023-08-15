@@ -1,12 +1,24 @@
 {
     "name": "batch-30/day-26",
-    "description": "kichu ekta",
+    "description": "simple portfolio",
     "type": "project",
+    "keywords": ["php, laravel"],
+    "authors": [
+        {
+            "name": "Hossain Rubel",
+            "email": "hossainrubel.cse29@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "App\\": "app/"
         }
     },
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        
+    },
+    "require-dev": {
+
+    }
 }
