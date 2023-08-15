@@ -1,0 +1,20 @@
+#product{
+    /* padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: azure; */
+    background-color:#0a193d;
+    color: white !important;
+    padding-top: 5%;
+    padding-bottom: 80px;
+}
+  
+#product h1{
+    padding-bottom: 70px;
+    font-style: italic;
+}
+  
+
+  
+#product-col2 ul li{
+    padding-top: 10px;
+}
